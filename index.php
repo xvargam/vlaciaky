@@ -6,7 +6,7 @@
 	<body>
 		<h1>
 			<?php 
-				echo "Hello World!";
+				echo "LOL :D";
 			?>
 		</h1>
 	</body>
